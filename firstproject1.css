@@ -1,0 +1,89 @@
+body{
+ margin: 0px;
+}
+.class_header{
+position: fixed;
+left: 0px;
+right: 0px;
+height: 100px;
+width: 100%;
+background-color: #0a2d42;
+}
+
+.div-logo{
+ height: 100%;
+ text-align:center;
+ margin:10px;
+ float: left;
+}
+
+.logo{
+  display: block;
+  font-family:"Helvetica Neue";
+  font-weight:bold;
+  color: whitesmoke;
+}
+
+.nav
+{
+float: right;
+height: 100px;
+}
+.nav a{
+ color:whitesmoke;
+ font-size:15px;
+ font-weight: 700;
+font-family:"Helvetica Neue";
+padding-right:20px;
+padding-top:12%;
+display:inline-block;
+}
+
+.site-content{
+position: absolute;
+top: 78px;
+width: 100%;
+left:0px;
+right:0px;
+}
+.image-content{
+ background-image: url("	https://i.pinimg.com/originals/7a/10/20/7a1020befab0387e9ee19d95d4647cd6.jpg");
+ height: 500px;
+ width: 100%;
+text-align: center;
+}
+
+.quote{
+font-weight:10%;
+font-family: "helvetica neue";
+font-style: italic;
+color:white;
+top:10%;
+}
+.card-list{
+ width: 100%;
+}
+
+#product{
+ text-align: center;
+}
+.card{
+ width: 22%;
+ padding: 1.5%;
+ height:300px;
+ float:left;
+ text-align:center;
+}
+
+.card img{
+width:100%;
+}
+
+.order-section{
+ width:100%;
+}
+
+#order
+{
+ text-align: center;
+}
